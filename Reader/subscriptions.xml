@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Mục đăng ký của Nguyen Huy trong Google Reader</title>
+    </head>
+    <body>
+        <outline title="Fun" text="Fun">
+            <outline text="Clients From Hell" title="Clients From Hell"
+                type="rss" xmlUrl="http://clientsfromhell.net/rss" htmlUrl="http://clientsfromhell.net/"/>
+        </outline>
+        <outline title="Mac news" text="Mac news">
+            <outline text="9to5Mac" title="9to5Mac" type="rss"
+                xmlUrl="http://feeds.feedburner.com/9to5Mac-MacAllDay" htmlUrl="http://9to5mac.com"/>
+            <outline text="BGR: The Three Biggest Letters In Tech"
+                title="BGR: The Three Biggest Letters In Tech"
+                type="rss" xmlUrl="http://www.bgr.com/feed/" htmlUrl="http://bgr.com"/>
+            <outline text="Cult of Mac" title="Cult of Mac" type="rss"
+                xmlUrl="http://feeds.feedburner.com/cultofmac/bFow" htmlUrl="http://www.cultofmac.com"/>
+            <outline text="Daring Fireball" title="Daring Fireball"
+                type="rss" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="http://daringfireball.net/"/>
+            <outline text="MacRumors: Mac News and Rumors - All Stories"
+                title="MacRumors: Mac News and Rumors - All Stories"
+                type="rss"
+                xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="http://www.macrumors.com"/>
+            <outline text="MacStories" title="MacStories" type="rss"
+                xmlUrl="http://feeds.feedburner.com/macstoriesnet" htmlUrl="http://www.macstories.net"/>
+            <outline text="Macworld" title="Macworld" type="rss"
+                xmlUrl="http://rss.macworld.com/macworld/feeds/main" htmlUrl="http://www.macworld.com"/>
+            <outline text="The Loop" title="The Loop" type="rss"
+                xmlUrl="http://feeds.loopinsight.com/loopinsight/KqJb" htmlUrl="http://www.loopinsight.com"/>
+            <outline text="TUAW - The Unofficial Apple Weblog"
+                title="TUAW - The Unofficial Apple Weblog" type="rss"
+                xmlUrl="http://www.tuaw.com/rss.xml" htmlUrl="http://www.tuaw.com"/>
+        </outline>
+        <outline title="UI UX" text="UI UX">
+            <outline text="Android Interaction Design Patterns"
+                title="Android Interaction Design Patterns" type="rss"
+                xmlUrl="http://feeds.feedburner.com/AndroidInteractionDesignPatterns" htmlUrl="http://www.androidpatterns.com"/>
+            <outline text="Android Patterns" title="Android Patterns"
+                type="rss" xmlUrl="http://androidpttrns.com/rss" htmlUrl="http://androidpttrns.tumblr.com/"/>
+            <outline text="Android UI Design Patterns"
+                title="Android UI Design Patterns" type="rss"
+                xmlUrl="http://feeds.feedburner.com/AndroidUiDesignPatterns" htmlUrl="http://www.androiduipatterns.com/"/>
+            <outline text="Inspired UI" title="Inspired UI" type="rss"
+                xmlUrl="http://inspired-ui.com/rss" htmlUrl="http://inspired-ui.com/"/>
+            <outline text="Inspired UI" title="Inspired UI" type="rss"
+                xmlUrl="http://android.inspired-ui.com/rss" htmlUrl="http://android.inspired-ui.com/"/>
+            <outline text="lovely ui" title="lovely ui" type="rss"
+                xmlUrl="http://www.lovelyui.com/rss" htmlUrl="http://www.lovelyui.com/"/>
+            <outline text="Patterns of Design"
+                title="Patterns of Design" type="rss"
+                xmlUrl="http://feeds.feedburner.com/patternsofdesign" htmlUrl="http://www.patternsofdesign.co.uk"/>
+            <outline text="pttrns.com" title="pttrns.com" type="rss"
+                xmlUrl="http://feeds.feedburner.com/pttrns" htmlUrl="http://pttrns.com/"/>
+            <outline text="Pulse News Engineering Blog"
+                title="Pulse News Engineering Blog" type="rss"
+                xmlUrl="http://eng.pulse.me/feed/" htmlUrl="http://eng.pulse.me"/>
+            <outline text="Recently Added Updates"
+                title="Recently Added Updates" type="rss"
+                xmlUrl="http://mobile-patterns.com/recently-added?rss" htmlUrl="http://mobile-patterns.com/recently-added"/>
+            <outline text="Sergey Shmidt" title="Sergey Shmidt"
+                type="rss" xmlUrl="http://shmidt.in/rss" htmlUrl="http://shmidt.in/"/>
+            <outline text="Ui Parade - User Interface Inspiration"
+                title="Ui Parade - User Interface Inspiration"
+                type="rss" xmlUrl="http://feeds.feedburner.com/UiParade" htmlUrl="http://www.uiparade.com"/>
+            <outline text="UI that I Heart Updates"
+                title="UI that I Heart Updates" type="rss"
+                xmlUrl="http://mobile-patterns.com/ui-that-i-heart?rss" htmlUrl="http://mobile-patterns.com/ui-that-i-heart"/>
+            <outline text="Uploads from Building iPhone Apps"
+                title="Uploads from Building iPhone Apps" type="rss"
+                xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?id=29443498@N05&amp;lang=en-us&amp;format=rss_200" htmlUrl="http://www.flickr.com/photos/buildingiphoneapps/"/>
+        </outline>
+        <outline title="Startups" text="Startups">
+            <outline text="500 Startups" title="500 Startups" type="rss"
+                xmlUrl="http://blog.500startups.com/feed/" htmlUrl="http://500.co"/>
+            <outline
+                text="A Smart Bear: Startups and Marketing for Geeks"
+                title="A Smart Bear: Startups and Marketing for Geeks"
+                type="rss"
+                xmlUrl="http://feeds2.feedburner.com/blogspot/smartbear" htmlUrl="http://blog.asmartbear.com"/>
+            <outline text="A VC" title="A VC" type="rss"
+                xmlUrl="http://feeds.feedburner.com/avc" htmlUrl="http://www.avc.com/a_vc/"/>
+            <outline text="ArcticStartup" title="ArcticStartup"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/ArcticStartup" htmlUrl="http://www.arcticstartup.com"/>
+            <outline text="Ask The VC" title="Ask The VC" type="rss"
+                xmlUrl="http://feeds.feedburner.com/AskTheVC" htmlUrl="http://www.askthevc.com/wp"/>
+            <outline text="ben's blog" title="ben's blog" type="rss"
+                xmlUrl="http://bhorowitz.com/feed/" htmlUrl="http://bhorowitz.com"/>
+            <outline text="Both Sides of the Table"
+                title="Both Sides of the Table" type="rss"
+                xmlUrl="http://feeds.feedburner.com/BothSidesOfTheTable" htmlUrl="http://www.bothsidesofthetable.com"/>
+            <outline text="cdixon.org - chris dixon's blog"
+                title="cdixon.org - chris dixon's blog" type="rss"
+                xmlUrl="http://cdixon.org/feed/" htmlUrl="http://cdixon.org"/>
+            <outline text="Fast Company" title="Fast Company" type="rss"
+                xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" htmlUrl="http://www.fastcompany.com"/>
+            <outline text="Gabriel Weinberg's Blog"
+                title="Gabriel Weinberg's Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/yegg" htmlUrl="http://www.gabrielweinberg.com/blog/"/>
+            <outline text="Lessons Learned" title="Lessons Learned"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/startup/lessons/learned" htmlUrl="http://www.startuplessonslearned.com/"/>
+            <outline text="Marco.org" title="Marco.org" type="rss"
+                xmlUrl="http://feeds.feedburner.com/marcoorg" htmlUrl="http://www.marco.org/"/>
+            <outline text="OnStartups" title="OnStartups" type="rss"
+                xmlUrl="http://feed.onstartups.com/onstartups" htmlUrl="http://onstartups.com/"/>
+            <outline text="Springwise" title="Springwise" type="rss"
+                xmlUrl="http://feeds.feedburner.com/springwise/" htmlUrl="http://www.springwise.com"/>
+            <outline text="Startups, life, learning and happiness"
+                title="Startups, life, learning and happiness"
+                type="rss" xmlUrl="http://feeds.feedburner.com/joelis" htmlUrl="http://joel.is/"/>
+            <outline text="TechCrunch » Fundings &amp; Exits"
+                title="TechCrunch » Fundings &amp; Exits" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TechCrunch/fundings-exits" htmlUrl="http://techcrunch.com"/>
+            <outline text="TechCrunch » Startups"
+                title="TechCrunch » Startups" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TechCrunch/startups" htmlUrl="http://techcrunch.com"/>
+            <outline text="The Corner" title="The Corner" type="rss"
+                xmlUrl="http://feeds.feedburner.com/corner-squareup-com" htmlUrl="http://corner.squareup.com"/>
+        </outline>
+        <outline title="Blogs" text="Blogs">
+            <outline text="Chet Haase" title="Chet Haase" type="rss"
+                xmlUrl="http://graphics-geek.blogspot.com/feeds/posts/default" htmlUrl="http://graphics-geek.blogspot.com/"/>
+            <outline text="Dave Morin" title="Dave Morin" type="rss"
+                xmlUrl="http://davemorin.tumblr.com/rss" htmlUrl="http://davemorin.tumblr.com/"/>
+            <outline text="Marco.org" title="Marco.org" type="rss"
+                xmlUrl="http://www.marco.org/rss" htmlUrl="http://www.marco.org/"/>
+            <outline text="Romain Guy" title="Romain Guy" type="rss"
+                xmlUrl="http://www.curious-creature.org/feed/" htmlUrl="http://www.curious-creature.org"/>
+            <outline text="Scott Hanselman" title="Scott Hanselman"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
+            <outline text="Sergey Shmidt" title="Sergey Shmidt"
+                type="rss" xmlUrl="http://shmidt.in/rss" htmlUrl="http://shmidt.in/"/>
+            <outline text="Steve Blank" title="Steve Blank" type="rss"
+                xmlUrl="http://steveblank.com/feed/" htmlUrl="http://steveblank.com"/>
+            <outline text="Tom Moor" title="Tom Moor" type="rss"
+                xmlUrl="http://blog.tommoor.com/rss" htmlUrl="http://blog.tommoor.com/"/>
+            <outline text="Zach Holman" title="Zach Holman" type="rss"
+                xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
+        </outline>
+        <outline title="Tech" text="Tech">
+            <outline text="Android Developers Blog"
+                title="Android Developers Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.blogspot.com/"/>
+            <outline text="Engadget" title="Engadget" type="rss"
+                xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline text="Gizmodo" title="Gizmodo" type="rss"
+                xmlUrl="http://feeds.gawker.com/gizmodo/full" htmlUrl="http://gizmodo.com"/>
+            <outline text="Google Mobile Blog"
+                title="Google Mobile Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/OfficialGoogleMobileBlog" htmlUrl="http://googlemobile.blogspot.com/"/>
+            <outline text="Hacker News" title="Hacker News" type="rss"
+                xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline text="Lifehacker" title="Lifehacker" type="rss"
+                xmlUrl="http://feeds.gawker.com/lifehacker/full" htmlUrl="http://lifehacker.com"/>
+            <outline text="Linux Line" title="Linux Line" type="rss"
+                xmlUrl="http://feeds.pcworld.com/pcworld/businesscenter/linuxline/" htmlUrl="http://www.pcworld.com"/>
+            <outline text="TechCrunch" title="TechCrunch" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
+            <outline text="TechCrunch » Mobile"
+                title="TechCrunch » Mobile" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Mobilecrunch" htmlUrl="http://techcrunch.com"/>
+            <outline text="Tinhte.vn" title="Tinhte.vn" type="rss"
+                xmlUrl="http://feeds.feedburner.com/tinhte" htmlUrl="http://www.tinhte.vn/forum/"/>
+            <outline text="Web Upd8 - Ubuntu / Linux blog"
+                title="Web Upd8 - Ubuntu / Linux blog" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/webupd8" htmlUrl="http://www.webupd8.org/"/>
+        </outline>
+    </body>
+</opml>
