@@ -1,0 +1,39 @@
+{
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".gradle",
+		"gradle"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 18.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers": [80],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
+	"todo":
+	{
+		"folder_exclude_patterns":
+		[
+			".git",
+			".gradle",
+			"gradle",
+			"bin",
+			"build"
+		],
+		"patterns":
+		{
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		}
+	},
+	"translate_tabs_to_spaces": true
+}
